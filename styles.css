@@ -1,0 +1,65 @@
+
+    
+    
+    body{
+        background-image:url(https://mobilesolutions.pt/wp-content/uploads/2016/02/Silver-Blur-Background-Wallpaper.jpg);
+    }
+        
+    
+    
+
+.Track h2{
+    font-size: 45px;
+    text-align: center;
+    font-family:'Fruktur', cursive;
+}
+.Track h3{
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Kavoon', cursive;
+
+}
+.body{
+    background-color:grey
+}
+.image img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:35%;
+}
+.pargraph1 h3,h4{
+    text-align: center;
+    margin-left: 3%;
+    letter-spacing: 1px;
+
+
+    font-size: 25px;
+    line-height: 1.8px;
+    color: rgb(43, 195, 226);
+    
+    font-family: 'VT323', monospace;
+}
+.paragraph2 h4,h5{
+    text-align: center;
+    margin-left: 3%;
+    letter-spacing: 1px;
+
+
+    font-size: 25px;
+    line-height: 1.8px;
+    color: goldenrod;
+    font-family: 'Bungee Shade', cursive;
+    
+}
+.paragraph3 h6,h5{
+    text-align: center;
+    margin-left: 3%;
+    letter-spacing: 1px;
+
+
+    font-size: 25px;
+    line-height: 1.8px;
+    color: rgb(255, 81, 0);
+    font-family: 'Pacifico', cursive;
+}
